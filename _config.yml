@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: adrian.work | Blog; Collection of things to forget;
+title: adrian.work | things to forget
 subtitle: "Brain Dump of Things the Following Month Fill Find Forgotten"
 url: "http://virtualadrian.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
