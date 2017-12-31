@@ -14,11 +14,11 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://adrian-work-web.github.io" # the base hostname & protocol for your site
+title: adrian.work | Blog; Collection of things to forget;
+subtitle: "Brain Dump of Things the Following Month Fill Find Forgotten"
+url: "http://virtualadrian.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/"
+baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
